@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 基于 LangChain 的生产级 RAG 系统
 
 这是一个可直接扩展的生产化 RAG 服务骨架，核心能力包括：
@@ -140,3 +141,6 @@ source .venv/bin/activate
 pip install -e .
 uvicorn app.main:app --reload
 ```
+=======
+# RAG_langchain
+>>>>>>> ee41ea27cc674f6b8fa37c206168bb60509fc47a
